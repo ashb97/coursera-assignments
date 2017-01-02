@@ -15,7 +15,6 @@ h2
 {
 	font-family: "Comic Sans", "Comic Sans MS", cursive;
 	border: 1px solid black;
-	background-color:#FFFF00;
 	width: 35%;
 	margin-left:auto;
 	margin-right:0px;
@@ -25,18 +24,18 @@ h2
 
 #Item1
 {
-	background-color: #FFC0CB
+	background-color: #FFA500
 }
 
 #Item2
 {
-    background-color: #FF0000; 
-    color: white;
+    background-color:#6e96ec; 
 }
 
 #Item3
 {
-    background-color: #f6f645;
+    background-color: #b000ff;
+    color: white;
 }
 
 p {
@@ -52,7 +51,7 @@ p {
 div#Box
 {
     border: 1px solid black;
-    background-color:#D3D3D3;
+    background-color:#79f279;
 }
 
 
